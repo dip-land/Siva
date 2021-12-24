@@ -1,0 +1,22 @@
+{
+  "name": "siva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shhh7612/Siva.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shhh7612/Siva/issues"
+  },
+  "homepage": "https://github.com/shhh7612/Siva#readme",
+  "dependencies": {
+    "discord.js": "^13.4.0"
+  }
+}
