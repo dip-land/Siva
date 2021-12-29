@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/shhh7612/Siva#readme",
   "dependencies": {
-    "discord.js": "^13.4.0"
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "discord.js": "^13.4.0",
+    "dotenv": "^10.0.0",
+    "glob": "^7.2.0",
+    "sequelize": "^7.0.0-alpha.2",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^4.2.0"
   }
 }
